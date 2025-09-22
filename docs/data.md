@@ -8,7 +8,7 @@ Use this page to track every dataset, survey, or qualitative artifact that infor
 - Partner interviews & surveys — store transcripts in the Group 6 CyVerse folder (`shared/esiil/Innovation_summit/Group_6/qualitative/`).
 
 ## Storage locations
-- **Community folder:** [`Group_6` on CyVerse](https://de.cyverse.org/data/ds/iplant/home/shared/esiil/Innovation_summit/Group_6)
+- **Community folder:** [`Group_6` on CyVerse](https://de.cyverse.org/data/ds/iplant/home/shared/esiil/Innovation_summit/Group_6?type=folder&resourceId=8fdb0ec6-959c-11f0-b0fb-90e2ba675364)
 - **Repo code:** [`code/`](https://github.com/CU-ESIIL/unsustainable-land-use-agriculture-behavior-change-capacity-innovation-summit-2025__6/tree/main/code)
 - **Working notes:** [`documentation/`](https://github.com/CU-ESIIL/unsustainable-land-use-agriculture-behavior-change-capacity-innovation-summit-2025__6/tree/main/documentation)
 

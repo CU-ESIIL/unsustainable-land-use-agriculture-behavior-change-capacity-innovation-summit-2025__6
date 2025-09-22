@@ -12,7 +12,7 @@ HERO (Swap hero.jpg, title, strapline, and the three links)
 
 **One sentence on impact:** In three days we are mapping behavior-change levers that encourage regenerative agricultural land use while safeguarding community livelihoods.
 
-**[Project brief (PDF)](#) · [View shared code](https://github.com/CU-ESIIL/unsustainable-land-use-agriculture-behavior-change-capacity-innovation-summit-2025__6/tree/main/code) · [Data & access](data.md)**
+**[Project brief (PDF)](assets/Seven%20ways%20to%20measure%20fire%20polygon%20velocity-4.pdfa) · [View code](https://github.com/CU-ESIIL/unsustainable-land-use-agriculture-behavior-change-capacity-innovation-summit-2025__6/blob/main/code/single_hull_demo.py) · [Explore data](https://github.com/CU-ESIIL/unsustainable-land-use-agriculture-behavior-change-capacity-innovation-summit-2025__6/blob/main/code/prism_quicklook.py)**
 
 > **About this site:** Group 6 uses this page to capture daily decisions, visuals, and takeaways during the 2025 Innovation Summit. Edit anything in your browser: open a file → pencil icon → Commit changes.
 
@@ -150,13 +150,13 @@ Unsustainable land use erodes soil health, reduces yields, and undermines climat
 <table>
 <tr>
 <td align="center" width="33%">
-  <a href="assets/Seven%20ways%20to%20measure%20fire%20polygon%20velocity-4.pdf"><img src="assets/button_brief.gif" alt="Download the draft brief" width="240"><br><strong>Read the brief</strong></a>
+  <a href="assets/Seven%20ways%20to%20measure%20fire%20polygon%20velocity-4.pdfa"><img src="assets/button_brief.gif" alt="Download the draft brief" width="240"><br><strong>Read the brief</strong></a>
 </td>
 <td align="center" width="33%">
-  <a href="https://github.com/CU-ESIIL/unsustainable-land-use-agriculture-behavior-change-capacity-innovation-summit-2025__6/tree/main/code"><img src="assets/button_code.gif" alt="View shared code" width="240"><br><strong>View code</strong></a>
+  <a href="https://github.com/CU-ESIIL/unsustainable-land-use-agriculture-behavior-change-capacity-innovation-summit-2025__6/blob/main/code/single_hull_demo.py"><img src="assets/button_code.gif" alt="View shared code" width="240"><br><strong>View code</strong></a>
 </td>
 <td align="center" width="33%">
-  <a href="data.md"><img src="assets/button_data.gif" alt="Explore data" width="240"><br><strong>Explore data</strong></a>
+  <a href="https://github.com/CU-ESIIL/unsustainable-land-use-agriculture-behavior-change-capacity-innovation-summit-2025__6/blob/main/code/prism_quicklook.py"><img src="assets/button_data.gif" alt="Explore data" width="240"><br><strong>Explore data</strong></a>
 </td>
 </tr>
 </table>
