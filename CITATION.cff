@@ -1,9 +1,9 @@
 cff-version: 1.2.0
 message: "If you use this repository, please cite it as below."
-title: "Project Group OASIS"
-version: "1.0.0"
-doi: 10.5281/zenodo.11166898
-date-released: 2025-09-10
+title: "Unsustainable Land Use & Agriculture Behavior Change — Innovation Summit 2025 (Group 6)"
+version: "0.1.0"
+date-released: 2025-02-01
 authors:
-  - family-names: Tuff
-    given-names: Ty
+  - name: "ESIIL Innovation Summit 2025 Group 6"
+abstract: "Collaboration hub and public website for Innovation Summit participants investigating behavioral levers that support sustainable agricultural land-use decisions."
+repository-code: "https://github.com/CU-ESIIL/unsustainable-land-use-agriculture-behavior-change-capacity-innovation-summit-2025__6"
