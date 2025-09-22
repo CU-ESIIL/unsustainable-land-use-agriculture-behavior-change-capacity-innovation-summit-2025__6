@@ -1,13 +1,13 @@
 ---
 layout: default
-title: "OASIS: 3-Day Team Template"
-subtitle: "A friction-free guide for collaborative research sprints"
-hero_image: assets/template/hero.svg
-team_logo: assets/template/team-logo.svg
-contact_slack: "#oasis-project-room"
-contact_email: "team@example.org"
-repo_owner: "cu-esiil"
-repo_name: "Project_group_OASIS"
+title: "Unsustainable Land Use & Agriculture Behavior Change"
+subtitle: "Innovation Summit 2025 · Group 6"
+hero_image: assets/hero.jpg
+team_logo: assets/esiil_content/esiil_oasis_logo.png
+contact_slack: "#innovation-summit-2025-group6"
+contact_email: "esiil@colorado.edu"
+repo_owner: "CU-ESIIL"
+repo_name: "unsustainable-land-use-agriculture-behavior-change-capacity-innovation-summit-2025__6"
 edit_path: "docs/project_template.md"
 ---
 
